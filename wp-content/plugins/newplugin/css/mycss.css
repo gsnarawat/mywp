@@ -1,0 +1,28 @@
+a.buttonw {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    height: 31px;
+    padding-right: 10px;
+    color: #183f4c;
+    background: transparent url(../images/sm_a.png) no-repeat top right;
+    text-decoration: none;
+}
+
+a.buttonw:hover {
+    color: #fff;
+    background-position: bottom right;
+    text-decoration: none;
+}
+
+a.buttonw span {
+    display: block;
+    line-height: 14px;
+    padding: 8px 0 9px 10px;
+    background: transparent url(../images/sm_span.png) no-repeat top left;
+}
+
+a.buttonw:hover span {
+    color: #fff;
+    background-position: bottom left;
+}
